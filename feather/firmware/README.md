@@ -6,5 +6,5 @@ Installing the firmware for a USB keyboard:
 2. Copy adafruit/neopixel.mpy to /mnt/lib
 3. Copy kmk_firmware-main/kmk to /mnt
 4. Copy code.py to /mnt
-5. Unmount the circuitpython druive and reset
+5. Unmount the circuitpython drive and reset
 
